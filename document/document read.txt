@@ -1,0 +1,53 @@
+Người mới hoàn toàn
+        │
+        ▼
+CONCEPTS.md          ← hiểu khái niệm cơ bản
+        │
+        ▼
+WHY_RUST.md          ← hiểu tại sao dùng Rust
+        │
+        ▼
+PHASES_EXPLAINED.md  ← hiểu big picture
+        │
+        ▼
+SETUP.md       ← cài môi trường, chạy được kernel
+        │
+        ▼
+USAGE.md        ← thực hành với shell
+        │
+        ▼
+ARCHITECTURE.md      ← hiểu cấu trúc tổng thể
+        │
+        ├─► DEEP_DIVE_MEMORY.md
+        ├─► DEEP_DIVE_INTERRUPTS.md
+        ├─► DEEP_DIVE_NETWORK.md
+        └─► DEEP_DIVE_FILESYSTEM.md
+                │
+                ▼
+        READING_GUIDE.md   ← bắt đầu đọc code
+                │
+                ▼
+        EXPERIMENTS.md     ← tự tay sửa code
+
+
+
+Người có kinh nghiệm systems/backend
+        │
+        ▼
+ARCHITECTURE.md      ← big picture (đã có)
+        │
+        ├─► DESIGN_TRADEOFFS.md   ← tại sao làm thế này
+        ├─► COMPARED_TO_LINUX.md  ← đặt vào context quen thuộc
+        │
+        ▼
+INTERNALS.md         ← hiểu sâu implementation
+RUST_PATTERNS.md     ← hiểu Rust-specific patterns
+        │
+        ▼
+KNOWN_LIMITATIONS.md ← biết giới hạn trước khi sửa
+DEBUGGING.md         ← công cụ debug
+        │
+        ▼
+ADDING_SYSCALLS.md   ┐
+ADDING_DRIVERS.md    ├─ bắt đầu contribute
+PORTING_GUIDE.md     ┘

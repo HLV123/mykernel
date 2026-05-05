@@ -1,0 +1,11 @@
+E:\New folder\mykernel\target\x86_64-mykernel\debug\deps\conquer_once-adae018856326556.d: C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\spin.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\cell.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lazy.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\state.rs
+
+E:\New folder\mykernel\target\x86_64-mykernel\debug\deps\libconquer_once-adae018856326556.rlib: C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\spin.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\cell.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lazy.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\state.rs
+
+E:\New folder\mykernel\target\x86_64-mykernel\debug\deps\libconquer_once-adae018856326556.rmeta: C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\spin.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\cell.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lazy.rs C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\state.rs
+
+C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\spin.rs:
+C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\cell.rs:
+C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\lazy.rs:
+C:\Users\ADMIN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\conquer-once-0.2.1\src\state.rs:

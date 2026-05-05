@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=E:\New folder\mykernel\Cargo.toml
+cargo:rustc-link-search=native=E:\New folder\mykernel\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-95fd743bb6c47034\out
+cargo:rustc-link-lib=static=kernel_bin-stack_overflow-d591fc46f840c5d6
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=\\?\E:\New folder\mykernel\target\x86_64-mykernel\debug\deps\stack_overflow-d591fc46f840c5d6
+cargo:rerun-if-changed=build.rs
